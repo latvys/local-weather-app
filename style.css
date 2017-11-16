@@ -1,0 +1,43 @@
+* {
+  all: none;
+  color: white;
+  font-size: 24px;
+}
+
+body {
+  background: rgb(0, 0, 0);
+  height: 100%;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 150px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  color: rgb(107, 146, 232);
+  font-size: 54px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.location {
+  padding: 12px;
+}
+
+.temperatureScale {
+  color: rgb(107, 146, 232);
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 200px;
+  font-size: 12px;
+}
+
+footer a {
+  font-size: 12px;
+}
